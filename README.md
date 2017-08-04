@@ -1,2 +1,1 @@
-# Rails-tut
-Ruby on Rails Course
+# Thuc tap Rails co ban
